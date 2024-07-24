@@ -1,7 +1,7 @@
 # Site settings
 title: juna nobi | جنيدى احمد # site title
 description: >- # site description
-  Hi, saya Juna dari Tuban. Saya adalah seorang desainer yang berfokus pada pembuatan icon, font, logo, dan motion graphic. Saya juga seorang UI/UX designer penuh waktu dan frontend developer di sebuah instansi di Tuban. Temukan karya-karya saya di <a href="https://dribbble.com/junanobi" target="_blank" rel="noopener">@dribbble</a> dan <a href="https://github.com/junanobi" target="_blank" rel="noopener">@github</a>.
+  Hi, I'm Juna from Tuban. As a designer, I specialize in creating icons, fonts, logos, and motion graphics. Additionally, I'm a full-time UI/UX designer and frontend developer at an institution in Tuban. Explore my work on <a href="https://dribbble.com/junanobi" target="_blank" rel="noopener">@dribbble</a> dan <a href="https://github.com/junanobi" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
 timezone: Asia/Jakarta # set your timezone
 image: assets/img/juna.jpg # This image used for Open Graph more info https://ogp.me/
@@ -12,7 +12,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: juna nobi | جنيدى احمد # author name
   bio: >- # tell to the world
-    Hi, saya Juna dari Tuban. Saya adalah seorang desainer yang berfokus pada pembuatan icon, font, logo, dan motion graphic. Saya juga seorang UI/UX designer penuh waktu dan frontend developer di sebuah instansi di Tuban. Temukan karya-karya saya di <a href="https://dribbble.com/junanobi" target="_blank" rel="noopener">@dribbble</a> dan <a href="https://github.com/junanobi" target="_blank" rel="noopener">@github</a>.
+    Hi, I'm Juna from Tuban. As a designer, I specialize in creating icons, fonts, logos, and motion graphics. Additionally, I'm a full-time UI/UX designer and frontend developer at an institution in Tuban. Explore my work on <a href="https://dribbble.com/junanobi" target="_blank" rel="noopener">@dribbble</a>.
   username: junanobi # general username
   github: junanobi # github username
   twitter: junanobi # twitter username
